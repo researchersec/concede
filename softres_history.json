@@ -1,0 +1,1108 @@
+{
+    "Orgknight": [
+        {
+            "raidId": "8fobe7",
+            "itemIds": [
+                30237,
+                30106,
+                30106
+            ]
+        },
+        {
+            "raidId": "p7xvj6",
+            "itemIds": [
+                30237,
+                30237,
+                30237
+            ]
+        },
+        {
+            "raidId": "qmoqd8",
+            "itemIds": [
+                30237,
+                30237,
+                30237
+            ]
+        }
+    ],
+    "Dunphy": [
+        {
+            "raidId": "8fobe7",
+            "itemIds": [
+                30236,
+                32405,
+                30236
+            ]
+        }
+    ],
+    "Rixr": [
+        {
+            "raidId": "8fobe7",
+            "itemIds": [
+                30082,
+                30242,
+                30052
+            ]
+        },
+        {
+            "raidId": "p7xvj6",
+            "itemIds": [
+                29997,
+                30106,
+                29966
+            ]
+        },
+        {
+            "raidId": "qmoqd8",
+            "itemIds": [
+                30082,
+                30106,
+                30052
+            ]
+        }
+    ],
+    "Bigb\u00e9lly": [
+        {
+            "raidId": "8fobe7",
+            "itemIds": [
+                30105,
+                29995,
+                29994
+            ]
+        },
+        {
+            "raidId": "qmoqd8",
+            "itemIds": [
+                29995,
+                30105,
+                29994
+            ]
+        }
+    ],
+    "Plantseed": [
+        {
+            "raidId": "8fobe7",
+            "itemIds": [
+                30049,
+                29982,
+                30107
+            ]
+        },
+        {
+            "raidId": "p7xvj6",
+            "itemIds": [
+                30244,
+                29982,
+                30107
+            ]
+        },
+        {
+            "raidId": "qmoqd8",
+            "itemIds": [
+                30107,
+                29982,
+                30049
+            ]
+        }
+    ],
+    "Harkshock": [
+        {
+            "raidId": "8fobe7",
+            "itemIds": [
+                30239,
+                30055,
+                30022
+            ]
+        },
+        {
+            "raidId": "p7xvj6",
+            "itemIds": [
+                30055,
+                29997,
+                32944
+            ]
+        },
+        {
+            "raidId": "qmoqd8",
+            "itemIds": [
+                30055,
+                30239,
+                30022
+            ]
+        }
+    ],
+    "Haegstrom": [
+        {
+            "raidId": "8fobe7",
+            "itemIds": [
+                30107,
+                29982,
+                30049
+            ]
+        },
+        {
+            "raidId": "p7xvj6",
+            "itemIds": [
+                29982,
+                29918,
+                32405
+            ]
+        },
+        {
+            "raidId": "qmoqd8",
+            "itemIds": [
+                30107,
+                29982,
+                30107
+            ]
+        }
+    ],
+    "Dunderwho": [
+        {
+            "raidId": "8fobe7",
+            "itemIds": [
+                30067,
+                30244,
+                29992
+            ]
+        },
+        {
+            "raidId": "pdh2ux",
+            "itemIds": [
+                29918,
+                29992,
+                29918
+            ]
+        }
+    ],
+    "Warrinn": [
+        {
+            "raidId": "8fobe7",
+            "itemIds": [
+                30243,
+                30237,
+                30082
+            ]
+        },
+        {
+            "raidId": "pdh2ux",
+            "itemIds": [
+                30243,
+                30081,
+                30105
+            ]
+        },
+        {
+            "raidId": "p7xvj6",
+            "itemIds": [
+                30237,
+                29997,
+                30081
+            ]
+        }
+    ],
+    "Mintw": [
+        {
+            "raidId": "8fobe7",
+            "itemIds": [
+                30237,
+                30057,
+                29997
+            ]
+        },
+        {
+            "raidId": "p7xvj6",
+            "itemIds": [
+                30249,
+                30237,
+                30106
+            ]
+        },
+        {
+            "raidId": "qmoqd8",
+            "itemIds": [
+                30249,
+                30237,
+                29997
+            ]
+        }
+    ],
+    "Truckie": [
+        {
+            "raidId": "8fobe7",
+            "itemIds": [
+                32405,
+                30245,
+                29918
+            ]
+        },
+        {
+            "raidId": "p7xvj6",
+            "itemIds": [
+                30245,
+                29918,
+                29988
+            ]
+        },
+        {
+            "raidId": "qmoqd8",
+            "itemIds": [
+                32405,
+                29918,
+                30245
+            ]
+        }
+    ],
+    "Gloripally": [
+        {
+            "raidId": "8fobe7",
+            "itemIds": [
+                30022,
+                30055,
+                30236
+            ]
+        },
+        {
+            "raidId": "p7xvj6",
+            "itemIds": [
+                30098,
+                30183
+            ]
+        },
+        {
+            "raidId": "qmoqd8",
+            "itemIds": [
+                30055,
+                30055,
+                30055
+            ]
+        }
+    ],
+    "Bhr": [
+        {
+            "raidId": "8fobe7",
+            "itemIds": [
+                30055,
+                30106,
+                29997
+            ]
+        },
+        {
+            "raidId": "pdh2ux",
+            "itemIds": [
+                30055,
+                30106,
+                30106
+            ]
+        },
+        {
+            "raidId": "p7xvj6",
+            "itemIds": [
+                30055,
+                30055,
+                30008
+            ]
+        }
+    ],
+    "Wargullock": [
+        {
+            "raidId": "8fobe7",
+            "itemIds": [
+                30247,
+                30095,
+                32405
+            ]
+        },
+        {
+            "raidId": "qmoqd8",
+            "itemIds": [
+                30095,
+                32405,
+                30049
+            ]
+        }
+    ],
+    "Jwhynot": [
+        {
+            "raidId": "8fobe7",
+            "itemIds": [
+                32267,
+                30095,
+                32515
+            ]
+        },
+        {
+            "raidId": "p7xvj6",
+            "itemIds": [
+                30447,
+                29925,
+                32515
+            ]
+        },
+        {
+            "raidId": "qmoqd8",
+            "itemIds": [
+                29925,
+                30183,
+                30095
+            ]
+        }
+    ],
+    "Allgasnbrake": [
+        {
+            "raidId": "8fobe7",
+            "itemIds": [
+                30243,
+                30106,
+                30249
+            ]
+        },
+        {
+            "raidId": "p7xvj6",
+            "itemIds": [
+                30106,
+                29997,
+                30249
+            ]
+        },
+        {
+            "raidId": "qmoqd8",
+            "itemIds": [
+                30243,
+                30249,
+                30237
+            ]
+        }
+    ],
+    "Ricketsia": [
+        {
+            "raidId": "8fobe7",
+            "itemIds": [
+                30249,
+                30246,
+                30237
+            ]
+        },
+        {
+            "raidId": "pdh2ux",
+            "itemIds": [
+                30237,
+                30249,
+                30249
+            ]
+        },
+        {
+            "raidId": "p7xvj6",
+            "itemIds": [
+                30237,
+                30249,
+                30237
+            ]
+        }
+    ],
+    "Jerrsha": [
+        {
+            "raidId": "8fobe7",
+            "itemIds": [
+                30239,
+                30245,
+                29988
+            ]
+        },
+        {
+            "raidId": "p7xvj6",
+            "itemIds": [
+                30242,
+                29988,
+                29988
+            ]
+        },
+        {
+            "raidId": "qmoqd8",
+            "itemIds": [
+                30239,
+                29988,
+                30067
+            ]
+        }
+    ],
+    "Glazzxa": [
+        {
+            "raidId": "8fobe7",
+            "itemIds": [
+                29997,
+                29994,
+                32405
+            ]
+        },
+        {
+            "raidId": "p7xvj6",
+            "itemIds": [
+                29994,
+                32405,
+                32405
+            ]
+        },
+        {
+            "raidId": "qmoqd8",
+            "itemIds": [
+                29994,
+                32405,
+                32405
+            ]
+        }
+    ],
+    "Becastingmon": [
+        {
+            "raidId": "8fobe7",
+            "itemIds": [
+                30244,
+                32405,
+                29918
+            ]
+        },
+        {
+            "raidId": "pdh2ux",
+            "itemIds": [
+                30095,
+                30244,
+                30107
+            ]
+        },
+        {
+            "raidId": "p7xvj6",
+            "itemIds": [
+                30244,
+                30095,
+                30107
+            ]
+        }
+    ],
+    "Skiva": [
+        {
+            "raidId": "8fobe7",
+            "itemIds": [
+                29976,
+                29989,
+                30030
+            ]
+        },
+        {
+            "raidId": "qmoqd8",
+            "itemIds": [
+                29989,
+                30030,
+                29976
+            ]
+        }
+    ],
+    "K\u00f6kasl\u00f6na": [
+        {
+            "raidId": "8fobe7",
+            "itemIds": [
+                30050,
+                30064,
+                29992
+            ]
+        },
+        {
+            "raidId": "qmoqd8",
+            "itemIds": [
+                30064,
+                30109,
+                29992
+            ]
+        }
+    ],
+    "\u00c1yadra": [
+        {
+            "raidId": "8fobe7",
+            "itemIds": [
+                30249,
+                29989,
+                30110
+            ]
+        },
+        {
+            "raidId": "p7xvj6",
+            "itemIds": [
+                29989,
+                29984,
+                30110
+            ]
+        }
+    ],
+    "Sn\u00f6boll": [
+        {
+            "raidId": "8fobe7",
+            "itemIds": [
+                30244,
+                29987,
+                29988
+            ]
+        },
+        {
+            "raidId": "qmoqd8",
+            "itemIds": [
+                29988,
+                30067,
+                29992
+            ]
+        }
+    ],
+    "Bulldorff": [
+        {
+            "raidId": "8fobe7",
+            "itemIds": [
+                30237,
+                29918,
+                30237
+            ]
+        },
+        {
+            "raidId": "p7xvj6",
+            "itemIds": [
+                30237,
+                30237,
+                29918
+            ]
+        },
+        {
+            "raidId": "qmoqd8",
+            "itemIds": [
+                30237,
+                29918,
+                32405
+            ]
+        }
+    ],
+    "Thorknight": [
+        {
+            "raidId": "pdh2ux",
+            "itemIds": [
+                29988,
+                29988,
+                29988
+            ]
+        },
+        {
+            "raidId": "d6tu7b",
+            "itemIds": [
+                29988,
+                29988,
+                29988
+            ]
+        }
+    ],
+    "H\u00e1egstrom": [
+        {
+            "raidId": "pdh2ux",
+            "itemIds": [
+                30106,
+                29997,
+                29995
+            ]
+        },
+        {
+            "raidId": "d6tu7b",
+            "itemIds": [
+                30082,
+                30249,
+                30106
+            ]
+        }
+    ],
+    "Bezz\u00ed": [
+        {
+            "raidId": "pdh2ux",
+            "itemIds": [
+                30236,
+                30242,
+                32405
+            ]
+        }
+    ],
+    "Kreddan": [
+        {
+            "raidId": "pdh2ux",
+            "itemIds": [
+                29992,
+                30236,
+                30236
+            ]
+        }
+    ],
+    "Ien": [
+        {
+            "raidId": "pdh2ux",
+            "itemIds": [
+                30106,
+                30106,
+                30106
+            ]
+        },
+        {
+            "raidId": "d6tu7b",
+            "itemIds": [
+                30106,
+                30106,
+                30106
+            ]
+        }
+    ],
+    "Strungol": [
+        {
+            "raidId": "pdh2ux",
+            "itemIds": [
+                30110,
+                32405,
+                29989
+            ]
+        },
+        {
+            "raidId": "d6tu7b",
+            "itemIds": [
+                30110,
+                29989,
+                32405
+            ]
+        },
+        {
+            "raidId": "p7xvj6",
+            "itemIds": [
+                29989,
+                29989,
+                30080
+            ]
+        }
+    ],
+    "Vandals": [
+        {
+            "raidId": "pdh2ux",
+            "itemIds": [
+                29972,
+                29992,
+                29982
+            ]
+        },
+        {
+            "raidId": "d6tu7b",
+            "itemIds": [
+                30109,
+                29992,
+                29972
+            ]
+        },
+        {
+            "raidId": "p7xvj6",
+            "itemIds": [
+                29992,
+                29982,
+                29972
+            ]
+        }
+    ],
+    "Harkshocktu": [
+        {
+            "raidId": "pdh2ux",
+            "itemIds": [
+                30236,
+                30106,
+                30091
+            ]
+        },
+        {
+            "raidId": "d6tu7b",
+            "itemIds": [
+                30236,
+                30055,
+                30091
+            ]
+        }
+    ],
+    "Arkhaal": [
+        {
+            "raidId": "pdh2ux",
+            "itemIds": [
+                30245,
+                30104,
+                30239
+            ]
+        },
+        {
+            "raidId": "d6tu7b",
+            "itemIds": [
+                30242,
+                30236,
+                30091
+            ]
+        }
+    ],
+    "Longsunzhao": [
+        {
+            "raidId": "pdh2ux",
+            "itemIds": [
+                29982,
+                32405,
+                29982
+            ]
+        },
+        {
+            "raidId": "d6tu7b",
+            "itemIds": [
+                29982,
+                32405,
+                30095
+            ]
+        }
+    ],
+    "Emokniv": [
+        {
+            "raidId": "pdh2ux",
+            "itemIds": [
+                30106,
+                30245,
+                30052
+            ]
+        },
+        {
+            "raidId": "d6tu7b",
+            "itemIds": [
+                30106,
+                30242,
+                30052
+            ]
+        }
+    ],
+    "Minthu": [
+        {
+            "raidId": "pdh2ux",
+            "itemIds": [
+                29994,
+                29966,
+                29997
+            ]
+        },
+        {
+            "raidId": "d6tu7b",
+            "itemIds": [
+                30250,
+                29997,
+                29966
+            ]
+        }
+    ],
+    "Sh\u00e1\u00e1ya": [
+        {
+            "raidId": "pdh2ux",
+            "itemIds": [
+                30242,
+                29991,
+                30108
+            ]
+        },
+        {
+            "raidId": "d6tu7b",
+            "itemIds": [
+                32405,
+                30092,
+                29991
+            ]
+        }
+    ],
+    "Boegknollarn": [
+        {
+            "raidId": "pdh2ux",
+            "itemIds": [
+                30183,
+                30067,
+                29918
+            ]
+        },
+        {
+            "raidId": "d6tu7b",
+            "itemIds": [
+                29918,
+                30064,
+                30067
+            ]
+        }
+    ],
+    "Vuny": [
+        {
+            "raidId": "pdh2ux",
+            "itemIds": [
+                29997,
+                30106,
+                30106
+            ]
+        },
+        {
+            "raidId": "d6tu7b",
+            "itemIds": [
+                30082,
+                30245,
+                30106
+            ]
+        },
+        {
+            "raidId": "p7xvj6",
+            "itemIds": [
+                29997,
+                30106,
+                30106
+            ]
+        }
+    ],
+    "Bacbac": [
+        {
+            "raidId": "pdh2ux",
+            "itemIds": [
+                30104,
+                30244,
+                32405
+            ]
+        },
+        {
+            "raidId": "d6tu7b",
+            "itemIds": [
+                32405,
+                30105,
+                29994
+            ]
+        }
+    ],
+    "Ampersand": [
+        {
+            "raidId": "pdh2ux",
+            "itemIds": [
+                30095,
+                30183,
+                30090
+            ]
+        },
+        {
+            "raidId": "d6tu7b",
+            "itemIds": [
+                30095,
+                30090,
+                30242
+            ]
+        }
+    ],
+    "Frnzy": [
+        {
+            "raidId": "pdh2ux",
+            "itemIds": [
+                30238,
+                30244,
+                29988
+            ]
+        },
+        {
+            "raidId": "p7xvj6",
+            "itemIds": [
+                29988,
+                30244,
+                30720
+            ]
+        }
+    ],
+    "Jwizzle": [
+        {
+            "raidId": "pdh2ux",
+            "itemIds": [
+                30106,
+                30106,
+                30055
+            ]
+        },
+        {
+            "raidId": "d6tu7b",
+            "itemIds": [
+                30106,
+                30106,
+                30106
+            ]
+        }
+    ],
+    "Rixpala": [
+        {
+            "raidId": "pdh2ux",
+            "itemIds": [
+                30106,
+                30242,
+                30057
+            ]
+        }
+    ],
+    "Estice": [
+        {
+            "raidId": "d6tu7b",
+            "itemIds": [
+                32405,
+                30236,
+                30236
+            ]
+        },
+        {
+            "raidId": "qmoqd8",
+            "itemIds": [
+                30108,
+                30047,
+                30112
+            ]
+        }
+    ],
+    "Jebacica": [
+        {
+            "raidId": "d6tu7b",
+            "itemIds": [
+                30092,
+                30108,
+                29991
+            ]
+        },
+        {
+            "raidId": "p7xvj6",
+            "itemIds": [
+                30108,
+                30108,
+                30092
+            ]
+        },
+        {
+            "raidId": "qmoqd8",
+            "itemIds": [
+                30108,
+                30092,
+                30108
+            ]
+        }
+    ],
+    "Eplepai": [
+        {
+            "raidId": "d6tu7b",
+            "itemIds": [
+                30107,
+                30095,
+                29982
+            ]
+        }
+    ],
+    "Hhz": [
+        {
+            "raidId": "d6tu7b",
+            "itemIds": [
+                30246,
+                30108,
+                30183
+            ]
+        },
+        {
+            "raidId": "qmoqd8",
+            "itemIds": [
+                30108,
+                32405,
+                30237
+            ]
+        }
+    ],
+    "Zugortv\u00e5": [
+        {
+            "raidId": "d6tu7b",
+            "itemIds": [
+                30720,
+                30250,
+                32405
+            ]
+        },
+        {
+            "raidId": "qmoqd8",
+            "itemIds": [
+                30250,
+                29988
+            ]
+        }
+    ],
+    "Grundyy": [
+        {
+            "raidId": "d6tu7b",
+            "itemIds": [
+                30057,
+                29997,
+                30183
+            ]
+        },
+        {
+            "raidId": "qmoqd8",
+            "itemIds": [
+                30057,
+                29997,
+                30249
+            ]
+        }
+    ],
+    "Holydunder": [
+        {
+            "raidId": "d6tu7b",
+            "itemIds": []
+        }
+    ],
+    "Dogsitter": [
+        {
+            "raidId": "p7xvj6",
+            "itemIds": [
+                30055,
+                30106,
+                32944
+            ]
+        },
+        {
+            "raidId": "qmoqd8",
+            "itemIds": [
+                32944,
+                30242,
+                30106
+            ]
+        }
+    ],
+    "Beleif": [
+        {
+            "raidId": "p7xvj6",
+            "itemIds": [
+                29988,
+                29988,
+                29988
+            ]
+        },
+        {
+            "raidId": "qmoqd8",
+            "itemIds": [
+                29988,
+                29988,
+                29988
+            ]
+        }
+    ],
+    "Waia": [
+        {
+            "raidId": "p7xvj6",
+            "itemIds": [
+                30105,
+                29993,
+                29951
+            ]
+        }
+    ],
+    "Wargulh": [
+        {
+            "raidId": "p7xvj6",
+            "itemIds": [
+                29993,
+                30105,
+                32405
+            ]
+        }
+    ]
+}
